@@ -4,7 +4,7 @@ I am Eldar, a 3rd semester Global Business & Economics student at FH Aachen, Ger
 
 I'm interested in Data Analysis, Finance, and Accounting, and I'm currently developing my technical skills to complement my business background.
 
-#🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
 **SQL / PostgreSQL** – database design, queries, joins, and data analysis
 
@@ -12,7 +12,7 @@ I'm interested in Data Analysis, Finance, and Accounting, and I'm currently deve
 
 **Business** – financial accounting, statistics, and quantitative analysis
 
-#📂 Projects
+## 📂 Projects
 
 Here are some projects I've worked on:
 
@@ -20,7 +20,7 @@ Here are some projects I've worked on:
 
 *Number Guessing Game* – a Bash-based game with PostgreSQL integration for tracking player statistics.
 
-#🎯 Currently Working On
+## 🎯 Currently Working On
 
 Improving my SQL and data analysis skills.
 
